@@ -5,7 +5,7 @@
 
 ---
 
-# 💫 About Me
+# About Me
 I’m **Cesar Abel Bustamante Inoach** , a backend developer specializing in the **Java ecosystem** since 2023.  
 Currently, I’m focused on building **microservices with Spring Boot**, moving towards modern, scalable, and high-performance architectures. 🚀  
 
@@ -15,7 +15,7 @@ My goal is to keep growing in **Spring Boot, microservices, and clean architectu
 
 ---
 
-## 🌐 Socials
+## Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/cesar-abel-bustamante-inoach">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
@@ -27,7 +27,7 @@ My goal is to keep growing in **Spring Boot, microservices, and clean architectu
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### 🔹 Backend
 <p align="center">
@@ -51,7 +51,7 @@ My goal is to keep growing in **Spring Boot, microservices, and clean architectu
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=AbelBusi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)  
