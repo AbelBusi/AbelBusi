@@ -1,13 +1,13 @@
 <!-- Banner animated -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Cesar+Abel+Bustamante+Inoach;Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices;Always+learning+%26+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=efb810&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Cesar+Abel+Bustamante+Inoach;Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices;Always+learning+%26+growing" alt="Typing SVG" />
 </p>
 
 ---
 
 # About Me
 I’m **Cesar Abel Bustamante Inoach** , a backend developer specializing in the **Java ecosystem** since 2023.  
-Currently, I’m focused on building **microservices with Spring Boot**, moving towards modern, scalable, and high-performance architectures. 🚀  
+Currently, I’m focused on building **microservices with Spring Boot**, moving towards modern, scalable, and high-performance architectures.   
 
 I’m passionate about designing and implementing **robust and maintainable backend applications**. I have experience working on **RESTful APIs** and management systems across different domains (e-commerce, coffee shops, supermarkets, pharmacies).  
 
